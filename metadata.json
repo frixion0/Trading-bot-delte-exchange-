@@ -1,0 +1,6 @@
+{
+  "name": "DeltaFlow Crypto Futures Terminal",
+  "description": "Professional crypto futures trading platform with flexible lot sizing, leverage controls, universal contract selector, real-time charts, direct REST API order execution, and 24/7 cloud hosting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
